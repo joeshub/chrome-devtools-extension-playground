@@ -1,0 +1,7 @@
+{
+  "name": "chrome-devtools-extension-playground",
+  "version": "0.0.1",
+  "description": "Playground for Building Chrome Devtools Extensions",
+  "manifest_version": 3,
+  "devtools_page": "devtools.html"
+}
